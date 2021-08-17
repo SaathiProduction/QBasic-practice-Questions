@@ -1,0 +1,68 @@
+1) Program to take two different numbers from the user and print either their sum or difference or product based on user's choice.
+On output screen:
+	Enter two numbers?3 , 4
+	1. Sum
+	2. Difference
+	3. Product
+	Select the choice(1 or 2 or 3)?3
+	Their product is 12
+
+2) Program to take the marks of 5 different subjects from the user and print the percentage it makes from the total full marks(full mark of each is 100).
+
+3) Program to print all the odd numbers from 1 to 100.
+
+4) Program to print the series : 4 16 36 64 100
+
+5) Program to print the series : 3 33 333 3333 33333
+
+6) Program to print the series : 1
+				 12
+				 123
+				 1234
+				 12345
+
+7) Program to input a string and print if it is palindrome or not(Palindrome is the word which is spelled same forward or backwards. eg:- level , eye).
+On output screen:
+	Enter a text?drawkdard
+	It is palindrome
+
+8) Program to input a number and print if it is palindrome or not.
+
+9) Program to input a string and print if it is palindrome or not
+	
+10) Program to input a number and print weather it is prime or composite.
+
+11) Program to print the series : 0 1 1 2 3 5 8 13 21 34
+
+12) Program to input a number and print its factorial(a number we get by multiplying all the numbers between it and 1. eg 5! = 1×2×3×4×5 = 120).
+On output screen:
+	Enter a number?5
+	Its factorial is 120	
+
+13) Program to take a decimal number and convert it into binary number.
+On output screen:
+	Enter a deciaml number?24
+	Its binary equivalent is 
+
+14) Program to print the series : 1
+				  22
+				  333
+				  4444
+				  55555
+
+15) Program to print the series :     M
+				     HMA
+				    THMAN
+				   ATHMAND
+				  KATHMANDU
+
+14) Program to print the series : 1
+				  10
+				  101
+				  1010
+				  10101
+
+15) Program to print the series : *SCIENCE*
+				   *CIENC*
+				    *IEN*
+				     *E*
