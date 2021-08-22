@@ -23,7 +23,7 @@ On output screen:
 
 7) Program to input a string and print if it is palindrome or not(Palindrome is the word which is spelled same forward or backwards. eg:- level , eye).
 On output screen:
-	Enter a text?drawkdard
+	Enter a text?drawkward
 	It is palindrome
 
 8) Program to input a number and print if it is palindrome or not.
