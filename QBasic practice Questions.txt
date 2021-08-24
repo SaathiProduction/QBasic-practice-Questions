@@ -42,7 +42,7 @@ On output screen:
 13) Program to take a decimal number and convert it into binary number.
 On output screen:
 	Enter a deciaml number?24
-	Its binary equivalent is 
+	Its binary equivalent is 11000
 
 14) Program to print the series : 1
 				  22
