@@ -23,7 +23,7 @@ On output screen:
 
 7) Program to input a string and print if it is palindrome or not(Palindrome is the word which is spelled same forward or backwards. eg:- level , eye).
 On output screen:
-	Enter a text?drawkdard
+	Enter a text?drawkward
 	It is palindrome
 
 8) Program to input a number and print if it is palindrome or not.
@@ -42,7 +42,7 @@ On output screen:
 13) Program to take a decimal number and convert it into binary number.
 On output screen:
 	Enter a deciaml number?24
-	Its binary equivalent is 
+	Its binary equivalent is 11000
 
 14) Program to print the series : 1
 				  22
