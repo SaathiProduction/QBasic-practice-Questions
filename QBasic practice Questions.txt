@@ -66,3 +66,50 @@ On output screen:
 				   *CIENC*
 				    *IEN*
 				     *E*
+
+
+
+
+
+
+
+
+
+
+
+############################# ARRAYS ################################
+
+
+
+
+
+
+1) Program to input the values in an array and print the greatest number among them.
+
+2) Program to find the occurrence of an integer in the array.
+
+3) Program to sort the array in ascending order.
+
+4) Program to reverse an array.
+
+5) Program to remove duplicate numbers from an array.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
